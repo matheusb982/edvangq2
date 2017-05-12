@@ -1,3 +1,3 @@
 # edvangq2
-Alunos: Matheus Bruno Teixeira Mendes
+Alunos: Matheus Bruno Teixeira Mendes,
 Samuel  Pereira Medeiros
